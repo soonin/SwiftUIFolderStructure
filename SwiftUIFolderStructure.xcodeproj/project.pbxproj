@@ -53,6 +53,12 @@
 			children = (
 				FAFEB63E27353862002DF928 /* SwiftUIFolderStructureApp.swift */,
 				FAFEB64027353862002DF928 /* ContentView.swift */,
+				FAFEB6512735399E002DF928 /* PreviewContent */,
+				FAFEB650273538D0002DF928 /* Networks */,
+				FAFEB64F273538C4002DF928 /* Utilities */,
+				FAFEB64E273538B1002DF928 /* Views */,
+				FAFEB64D27353898002DF928 /* Models */,
+				FAFEB64C2735387D002DF928 /* Resources */,
 				FAFEB64227353869002DF928 /* Assets.xcassets */,
 				FAFEB64427353869002DF928 /* Preview Content */,
 			);
@@ -65,6 +71,72 @@
 				FAFEB64527353869002DF928 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAFEB64C2735387D002DF928 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FAFEB64D27353898002DF928 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FAFEB64E273538B1002DF928 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB65427353A05002DF928 /* Shared */,
+				FAFEB653273539F6002DF928 /* Screen */,
+				FAFEB652273539E6002DF928 /* Navigation */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FAFEB64F273538C4002DF928 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		FAFEB650273538D0002DF928 /* Networks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networks;
+			sourceTree = "<group>";
+		};
+		FAFEB6512735399E002DF928 /* PreviewContent */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = PreviewContent;
+			sourceTree = "<group>";
+		};
+		FAFEB652273539E6002DF928 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		FAFEB653273539F6002DF928 /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
+		FAFEB65427353A05002DF928 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
